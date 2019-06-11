@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Astroblog.github.io</id>
+    <id>https://astroblog.github.io</id>
     <title>AstroBlog-阿童木博客</title>
-    <updated>2019-06-11T09:42:53.605Z</updated>
+    <updated>2019-06-11T09:46:52.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Astroblog.github.io"/>
-    <link rel="self" href="https://Astroblog.github.io/atom.xml"/>
+    <link rel="alternate" href="https://astroblog.github.io"/>
+    <link rel="self" href="https://astroblog.github.io/atom.xml"/>
     <subtitle>阿童木の分享地带</subtitle>
-    <logo>https://Astroblog.github.io/images/avatar.png</logo>
-    <icon>https://Astroblog.github.io/favicon.ico</icon>
+    <logo>https://astroblog.github.io/images/avatar.png</logo>
+    <icon>https://astroblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, AstroBlog-阿童木博客</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://Astroblog.github.io/post/hello-gridea</id>
-        <link href="https://Astroblog.github.io/post/hello-gridea">
+        <id>https://astroblog.github.io/post/hello-gridea</id>
+        <link href="https://astroblog.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
